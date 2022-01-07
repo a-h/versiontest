@@ -13,4 +13,5 @@ func main() {
 		os.Exit(1)
 	}
 	fmt.Println(info.Main.Version)
+	fmt.Println("I'm version two")
 }
